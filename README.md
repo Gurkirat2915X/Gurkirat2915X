@@ -1,50 +1,47 @@
-# 👋 Hi, I'm Gurkirat Singh Dhillon 
+# Hi there, I'm Gurkirat Singh Dhillon! 👋
 
-🎓 Student at VIT Bhopal University  
-👨‍💻 Full Stack Intern @ Digital Guruji  
-🔧 Technical Team Member at VITBMUN Club & Hindi Club  
-🚀 HackByte 3.0 Runner-Up (Wikimedia Track, IIITDM Jabalpur)
+I am a passionate **Full Stack & Mobile Developer** driven by building applications that solve real-world problems. I specialize in bridging the gap between complex backend logic and intuitive user experiences.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, C++, JavaScript, Java, Dart  
-**Frontend:** React, HTML, CSS, Flutter  
-**Backend:** Node.js, Express.js, Django  
-**Stacks:** MERN, PERN  
-**Databases:** PostgreSQL, MongoDB, SQLite  
-**AI/ML:** PyTorch, YOLO, Pandas, Matplotlib  
-**Cloud & Tools:** AWS Lambda, Git, GitHub, Figma, AndroidAlarmManager
+- 🔭 I’m currently working as a **Developer Intern at Advan Drive Technologies**, building a Financial B2B SaaS Solution.
+- 🚀 **Highlight:** Built the **VIT-B Mess App**, serving **10,000+ students** with offline-first capabilities.
+- 🏆 **Achievements:** Runner-Up at **HackByte 3.0** (WikiMedia Track).
+- 🤝 I’m a **Technical Team Lead** for the Mozilla Firefox Club (Mobile Track) and VITB MUN.
 
 ---
 
-## 🌱 Currently Working On
-- A Telegram Bot for managing interns and automating support  
-- Enhancing the VIT-B Mess App used by 10K+ students  
-- Exploring AI/ML projects in agriculture and education
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Mobile** | Flutter, Dart, Riverpod, Hive |
+| **Frontend** | React, HTML, CSS, Tailwind |
+| **Backend** | Node.js, Express, Django, AWS Lambda, Next.js, Falcon |
+| **AI / ML** | Python, YOLOv11, SAM2, PyTorch, Gemini AI |
+| **Database** | MongoDB, PostgreSQL, SQLite |
 
 ---
 
-## 🔍 Featured Projects
+### 🌟 Featured Projects
 
-- **🌿 AgriTech** – Plant disease detection using SAM2 + YOLOv11 (Django Backend)  
-- **🍽️ VIT-B Mess App** – Real-time menu, meal reminders using Flutter, Hive  
-- **🧠 Text Humanizer SaaS** – Built with AWS Lambda and serverless architecture
+**📱 VIT-B Mess App (Campus Utility)**
+*Architected a full-stack mobile app to provide real-time meal data.*
+- **Scale:** active college students.
+- **Tech:** Flutter, Hive (Offline-first), AWS Lambda.
+
+**🤖 AgriTech (AI Disease Detection)**
+*Automated plant disease identification using computer vision.*
+- **Tech:** Django, YOLOv11, SAM2, PyTorch.
+- **Features:** Custom NLP chatbot & user authentication.
+
+**⚡ BypassAI (SaaS Tool)**
+*Serverless AI humanization tool.*
+- **Tech:** Node.js, AWS Lambda, MongoDB.
+- **Features:** JWT/Google OAuth & multi-tier subscription system.
 
 ---
 
-## 📫 Let's Connect
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gurkirat-singh-dhillon)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/Gurkirat2915X)
+📧 **Email:** gurkiratsinghdhillon.work@gmail.com
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gurkirat-singh-dhillon/)  
-- 📧 [Email](mailto:gurkiratsinghdhillon.work@gmail.com)  
-- 💬 Open to collaboration on full-stack, AI/ML, or mobile projects!
-
----
-
-⭐️ *“Code. Learn. Build. Repeat.”*
-
-<!---
-Gurkirat2915X/Gurkirat2915X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
